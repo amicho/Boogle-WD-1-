@@ -1,0 +1,88 @@
+.upright {
+    position: fixed;
+    top: 0px;
+    right: 20px;
+    display: inline;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.upleft {
+    top: 10px;
+    position: fixed;
+    left: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    top: 10px;
+}
+
+
+.uprwords {
+    margin: 15px;
+}
+
+.uplwords {
+    left: 20px;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.searchengine {
+    width: 200px;
+    border-radius: 25px;
+    border: 1px #000 solid;
+    height: 35px;
+    float: center;
+    z-index: 5;
+}
+
+.search {
+    height: 35px;
+    background: yellow;
+}
+
+
+
+
+.buttonA {
+    background: yellow;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    bottom: 10px;
+    position: fixed;
+    left: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+.boogle {
+  position: absolute;
+    left: 0;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.icons {
+    position: absolute;
+    left: 0;
+    bottom: 35%;
+    width: 100%;
+    text-align: center;
+}
